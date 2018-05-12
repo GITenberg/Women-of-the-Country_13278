@@ -1,0 +1,27 @@
+_repo: Women-of-the-Country_13278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bone, Gertrude
+    alias: Dodd, Gertrude Helena
+    birthdate: 1876
+    deathdate: 1962
+    gutenberg_agent_id: '4973'
+    url: http://www.gutenberg.org/2009/agents/4973
+description: ''
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Women of the Country
+url: http://www.gutenberg.org/ebooks/13278
